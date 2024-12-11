@@ -130,3 +130,57 @@ Voici un tableau comparant les scores réels et les scores prévus pour certains
 | Manchester City vs Arsenal | 1-1        | 1-0          |
 
 
+def predire_scores():
+    # Code pour prédire les scores
+    return prediction
+
+
+## 🚀 Démarrage rapide
+## 📊 Résultats
+## 💻 Installation
+
+
+import matplotlib.pyplot as plt
+
+# Création d'un graphique simple
+plt.plot([1, 2, 3], [4, 5, 6])
+plt.title('Graphique des scores')
+plt.savefig('assets/graphique.png')  # Sauvegarder dans le dossier assets
+
+
+![Graphique des scores](assets/graphique.png)
+
+
+
+![Graphique en ligne](https://www.example.com/graphique.png)
+
+
+
+[Ouvrir le script `train_model.py`](scripts/train_model.py)
+
+
+![Graphique externe](https://www.example.com/graphique.png)
+
+## 🚀 Démarrage rapide
+
+Les emojis peuvent être ajoutés facilement en utilisant leur code Unicode ou en copiant directement l'emoji.
+
+2.1. Ajouter un emoji dans un titre
+Vous pouvez ajouter des emojis directement dans les titres de votre README.md. Il suffit de copier l'emoji depuis un site comme Emojipedia et de le coller dans votre titre.
+
+Exemple :
+
+
+---
+
+### **Résumé des étapes pour ajouter ces éléments :**
+1. **Code** : Utilisez les backticks (`` ` ``) pour le code en ligne et les triplets de backticks (```` ``` ````) pour les blocs de code.
+2. **Emojis** : Copiez directement l'emoji ou utilisez son code Unicode pour l'ajouter dans les titres.
+3. **Graphiques** : Sauvegardez les graphiques dans un dossier (par exemple `assets/`) et utilisez `![Texte](chemin/vers/graphique.png)` pour les ajouter dans le `README.md`.
+4. **Liens** : Utilisez `[texte du lien](URL)` pour créer des liens vers des fichiers locaux ou des pages externes.
+
+---
+
+Si vous avez d'autres questions ou des demandes spécifiques, n'hésitez pas à demander ! 😊
+
+
