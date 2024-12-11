@@ -95,3 +95,38 @@ cd prediction-scores-manchester-city
    git commit -m "Ajout du fichier README.md"
    git push origin main
 
+[Ouvrir le notebook de formation du modèle](notebooks/model_training.ipynb)
+
+[Voir mon profil GitHub](https://github.com/your-username)
+
+
+Pour voir le projet en action, consultez le [notebook d'entraînement du modèle](notebooks/model_training.ipynb) dans le répertoire `notebooks`.
+
+
+![Texte alternatif de l'image](chemin/vers/l'image.extension)
+
+
+![Performance du modèle](assets/model-performance.png)
+
+
+## Graphique des performances du modèle
+Voici un graphique illustrant les résultats de notre modèle de prédiction des scores :
+![Graphique de performance](assets/model-performance.png)
+
+| Colonne 1   | Colonne 2   | Colonne 3   |
+| ----------- | ----------- | ----------- |
+| Valeur 1    | Valeur 2    | Valeur 3    |
+| Valeur 4    | Valeur 5    | Valeur 6    |
+
+
+## Résultats des prédictions
+
+Voici un tableau comparant les scores réels et les scores prévus pour certains matchs :
+
+| Match                   | Score réel | Score prédit |
+| ----------------------- | ---------- | ------------ |
+| Manchester City vs Chelsea | 2-1        | 2-0          |
+| Manchester City vs Liverpool | 3-0        | 3-1          |
+| Manchester City vs Arsenal | 1-1        | 1-0          |
+
+
